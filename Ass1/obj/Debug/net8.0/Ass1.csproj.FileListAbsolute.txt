@@ -1,0 +1,15 @@
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\bin\Debug\net8.0\Ass1.exe
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\bin\Debug\net8.0\Ass1.deps.json
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\bin\Debug\net8.0\Ass1.runtimeconfig.json
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\bin\Debug\net8.0\Ass1.dll
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\bin\Debug\net8.0\Ass1.pdb
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.AssemblyInfoInputs.cache
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.AssemblyInfo.cs
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.csproj.CoreCompileInputs.cache
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.sourcelink.json
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.dll
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\refint\Ass1.dll
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.pdb
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\Ass1.genruntimeconfig.cache
+D:\VisualStudioCode\C#\C_Sharp_Assignments\Ass1\obj\Debug\net8.0\ref\Ass1.dll
